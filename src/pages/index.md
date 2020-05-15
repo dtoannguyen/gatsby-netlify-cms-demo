@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Great coffee by SET and Hanseatic Consulting
-image: /img/home-jumbotron.jpg
+title: Delicous coffee by SET and Hanseatic Consulting
+image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming in your area while enjoying a cup of
   delicous coffee
